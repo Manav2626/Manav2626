@@ -21,5 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manav2626&show_icons=true&locale=en&layout=compact" alt="manav2626" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Manav2626&exclude_days=Sun" alt="GitHub Streak" /></p>
 <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Manav2626&exclude_days=Sun" alt="GitHub Streak" /></a></p>
