@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS Solution Architect**
 
-- 📝 I (used to) regularly write articles on https://bit.ly/getitaccurate
+- 📝 I regularly write articles on [https://bit.ly/getitaccurate](https://bit.ly/getittaccurate)
 
 - 📫 How to reach me **manavwork01@gmail.com**
 
